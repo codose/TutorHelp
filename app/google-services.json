@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751885648282",
+    "firebase_url": "https://tutorhelp-7837e.firebaseio.com",
+    "project_id": "tutorhelp-7837e",
+    "storage_bucket": "tutorhelp-7837e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751885648282:android:e9fffc979ab0a23eb47a23",
+        "android_client_info": {
+          "package_name": "com.codose.tutorhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751885648282-144d26ii57fsfjs54n8b2q37f5414ova.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codose.tutorhelp",
+            "certificate_hash": "23cd63235737c9f963e1e48e3615f82003320fbb"
+          }
+        },
+        {
+          "client_id": "751885648282-ce4okv461j29am14alda161dfatkab7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQlGw1qJfQCJvrPWo_7jR_JCz3l1I7hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751885648282-ce4okv461j29am14alda161dfatkab7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
